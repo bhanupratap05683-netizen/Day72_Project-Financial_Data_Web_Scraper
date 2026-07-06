@@ -1,0 +1,17 @@
+2026-07-06 20:53:33,899 - INFO - ============================================================
+2026-07-06 20:53:33,899 - INFO - FINANCIAL DATA WEB SCRAPER - RUN STARTED
+2026-07-06 20:53:33,900 - INFO - ============================================================
+2026-07-06 20:53:33,900 - INFO - Loading sample page 1
+2026-07-06 20:53:34,907 - INFO - Loading sample page 2
+2026-07-06 20:53:35,910 - INFO - Loading sample page 3
+2026-07-06 20:53:35,910 - INFO - Collected 3 pages
+2026-07-06 20:53:35,913 - INFO - Page 1: extracted 3 raw rows
+2026-07-06 20:53:35,915 - INFO - Page 2: extracted 3 raw rows
+2026-07-06 20:53:35,958 - INFO - Page 3: extracted 3 raw rows
+2026-07-06 20:53:35,959 - WARNING - Row 5: invalid data ['TSLA', 'Tesla', 'bad_price', '-3.20']. Skipped.
+2026-07-06 20:53:35,959 - WARNING - Row 8: invalid data ['', 'Mystery Co', '$99.99', '0.10']. Skipped.
+2026-07-06 20:53:35,960 - INFO - Validation: 7 valid, 2 skipped
+2026-07-06 20:53:35,975 - INFO - Removed 1 duplicate symbol(s)
+2026-07-06 20:53:36,046 - INFO - Workbook written: financial_data_report.xlsx
+2026-07-06 20:53:36,081 - INFO - Formatting applied to all sheets
+2026-07-06 20:53:36,143 - INFO - RUN COMPLETED SUCCESSFULLY
