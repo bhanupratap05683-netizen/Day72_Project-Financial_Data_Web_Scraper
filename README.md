@@ -35,3 +35,4 @@ pip install requests beautifulsoup4 pandas openpyxl lxml
 ## Files
 - Day72_Project-Financial_Data_Web_Scraper.py
 - financial_data_report.xlsx
+- scraper_project.log
